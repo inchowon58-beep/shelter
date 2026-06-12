@@ -9,17 +9,20 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        brand: {
-          50: "#f0f7ff",
-          100: "#e0effe",
-          500: "#3b82f6",
-          600: "#2563eb",
-          700: "#1d4ed8",
-          900: "#1e3a5f",
+        cream: {
+          DEFAULT: "#FAF8F4",
+          dark: "#F0EBE3",
         },
-        accent: {
-          500: "#f97316",
-          600: "#ea580c",
+        sand: "#E8DFD4",
+        charcoal: "#1C1917",
+        warm: {
+          DEFAULT: "#78716C",
+          light: "#A8A29E",
+        },
+        aga: {
+          brown: "#8B6F47",
+          gold: "#B8956B",
+          dark: "#1A1614",
         },
       },
       fontFamily: {
@@ -30,6 +33,15 @@ const config: Config = {
           "system-ui",
           "sans-serif",
         ],
+        serif: [
+          "Noto Serif KR",
+          "Georgia",
+          "Times New Roman",
+          "serif",
+        ],
+      },
+      letterSpacing: {
+        widest: "0.2em",
       },
     },
   },
