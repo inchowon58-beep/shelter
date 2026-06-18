@@ -246,6 +246,86 @@ export const subRegionDefinitions: SubRegionDefinition[] = [
     nearbyArea: "의정부 및 경기 북부 인근",
     variantIndex: 9,
   },
+  {
+    slug: "mokpo",
+    name: "목포",
+    englishName: "Mokpo",
+    areaServed: "전라남도 목포시",
+    nearbyArea: "목포 및 전남 서부 인근",
+    variantIndex: 0,
+  },
+  {
+    slug: "gwangju",
+    name: "광주",
+    englishName: "Gwangju",
+    areaServed: "광주광역시",
+    nearbyArea: "광주 및 호남 인근",
+    variantIndex: 1,
+  },
+  {
+    slug: "daejeon",
+    name: "대전",
+    englishName: "Daejeon",
+    areaServed: "대전광역시",
+    nearbyArea: "대전 및 충청 인근",
+    variantIndex: 2,
+  },
+  {
+    slug: "jeju",
+    name: "제주",
+    englishName: "Jeju",
+    areaServed: "제주특별자치도",
+    nearbyArea: "제주도 및 제주 인근",
+    variantIndex: 3,
+  },
+  {
+    slug: "gimhae",
+    name: "김해",
+    englishName: "Gimhae",
+    areaServed: "경상남도 김해시",
+    nearbyArea: "김해 및 경남 서부 인근",
+    variantIndex: 4,
+  },
+  {
+    slug: "jinju",
+    name: "진주",
+    englishName: "Jinju",
+    areaServed: "경상남도 진주시",
+    nearbyArea: "진주 및 경남 서부 인근",
+    variantIndex: 5,
+  },
+  {
+    slug: "jinhae",
+    name: "진해",
+    englishName: "Jinhae",
+    areaServed: "경상남도 창원시 진해구",
+    nearbyArea: "진해 및 경남 인근",
+    variantIndex: 6,
+  },
+  {
+    slug: "miryang",
+    name: "밀양",
+    englishName: "Miryang",
+    areaServed: "경상남도 밀양시",
+    nearbyArea: "밀양 및 경남 중부 인근",
+    variantIndex: 7,
+  },
+  {
+    slug: "gunsan",
+    name: "군산",
+    englishName: "Gunsan",
+    areaServed: "전라북도 군산시",
+    nearbyArea: "군산 및 전북 서부 인근",
+    variantIndex: 8,
+  },
+  {
+    slug: "eonyang",
+    name: "언양",
+    englishName: "Eonyang",
+    areaServed: "울산광역시 울주군 언양읍",
+    nearbyArea: "언양 및 울산·경남 인근",
+    variantIndex: 9,
+  },
 ];
 
 function fill(template: string, name: string): string {
@@ -258,7 +338,7 @@ function fillLines(lines: string[], name: string): string[] {
 
 export function createSubRegionContent(def: SubRegionDefinition) {
   const { name, slug, englishName, nearbyArea, variantIndex } = def;
-  const variant = contentVariants[variantIndex];
+  const variant = contentVariants[variantIndex % contentVariants.length];
 
   const heroTitleLines = fillLines(variant.heroTitleLines, name);
   const missionTitleLines = fillLines(variant.missionTitleLines, name);
