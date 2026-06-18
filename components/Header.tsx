@@ -12,10 +12,10 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4 sm:px-8">
         <a href="#" className="group shrink-0">
           <span className="block font-serif text-base font-medium text-charcoal sm:text-lg">
-            전주강아지·고양이파양
+            목포강아지·고양이파양
           </span>
           <span className="block text-[10px] font-medium uppercase tracking-widest text-warm">
-            Jeonju Pet Shelter Guide
+            Mokpo Pet Shelter Guide
           </span>
         </a>
 
