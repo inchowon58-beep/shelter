@@ -1,24 +1,19 @@
-import { mokpoContent } from "@/lib/regions/mokpo";
+import { incheonContent } from "@/lib/regions/incheon";
 import {
   getRegionPageUrl,
   getStructuredDataForRegion,
-  gyeongsanSeo,
-  mokpoSeo,
+  incheonSeo,
+  siteUrl,
 } from "@/lib/regions/seo";
 
-export const siteUrl = "https://mokpo.vercel.app";
+export { siteUrl };
 
-export const targetKeywords = mokpoSeo.targetKeywords;
-export const siteTitle = mokpoSeo.siteTitle;
-export const siteDescription = mokpoSeo.siteDescription;
+export const targetKeywords = incheonSeo.targetKeywords;
+export const siteTitle = incheonSeo.siteTitle;
+export const siteDescription = incheonSeo.siteDescription;
 
 export function getStructuredData() {
-  return getStructuredDataForRegion(mokpoSeo, mokpoContent.faqItems);
+  return getStructuredDataForRegion(incheonSeo, incheonContent.faqItems);
 }
 
-export {
-  getRegionPageUrl,
-  getStructuredDataForRegion,
-  gyeongsanSeo,
-  mokpoSeo,
-};
+export { getRegionPageUrl, getStructuredDataForRegion, incheonSeo };

@@ -12,10 +12,10 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
     default: siteTitle,
-    template: "%s | 목포강아지·고양이파양",
+    template: "%s | 인천강아지·고양이파양",
   },
   description: siteDescription,
-  keywords: [...targetKeywords, "목포 강아지 파양", "목포 고양이 파양", "목포 유기견", "목포 유기묘", "아가펫"],
+  keywords: [...targetKeywords, "인천 강아지 파양", "인천 고양이 파양", "인천 유기견", "인천 유기묘", "아가펫"],
   authors: [{ name: "아가펫" }],
   creator: "아가펫",
   publisher: "아가펫",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "ko_KR",
     url: siteUrl,
-    siteName: "목포강아지파양 · 목포고양이파양 · 목포유기견·유기묘보호소 안내",
+    siteName: "인천강아지파양 · 인천고양이파양 · 인천유기견·유기묘보호소 안내",
     title: siteTitle,
     description: siteDescription,
     images: [
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
         url: "/images/shelter-01.png",
         width: 1200,
         height: 630,
-        alt: "목포강아지파양·목포고양이파양·목포유기견·유기묘보호소 전경",
+        alt: "인천강아지파양·인천고양이파양·인천유기견·유기묘보호소 전경",
       },
     ],
   },
@@ -56,11 +56,6 @@ export const metadata: Metadata = {
     canonical: siteUrl,
   },
   category: "반려동물",
-  verification: {
-    other: {
-      "naver-site-verification": "44e4dc7065d0053cddc2441e68331be900354901",
-    },
-  },
 };
 
 export default function RootLayout({
