@@ -1,4 +1,5 @@
 import { batch2Definitions } from "./definitions-batch2";
+import { batch3Definitions } from "./definitions-batch3";
 import type { RegionPageContent, RegionSeo, SubRegionDefinition } from "./types";
 
 export type ContentVariant = {
@@ -321,6 +322,7 @@ export const subRegionDefinitions: SubRegionDefinition[] = [
     variantIndex: 9,
   },
   ...batch2Definitions,
+  ...batch3Definitions,
 ];
 
 function fill(template: string, name: string): string {

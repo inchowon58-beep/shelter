@@ -120,6 +120,23 @@ export const regionLinkGroups: { title: string; links: RegionLink[] }[] = [
       "eonyang",
     ]),
   },
+  {
+    title: "서울·강원·충남·경남",
+    links: linksFromSlugs([
+      "yeongdeungpo",
+      "guri",
+      "magok",
+      "byeollae",
+      "jochiwon",
+      "hongseong",
+      "donghae",
+      "taebaek",
+      "masan",
+      "hongcheon",
+      "itaewon",
+      "nowon",
+    ]),
+  },
 ];
 
 export const allRegionLinks: RegionLink[] = [
