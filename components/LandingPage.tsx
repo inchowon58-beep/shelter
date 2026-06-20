@@ -1,6 +1,7 @@
 import Image from "next/image";
 import FloatingBar from "@/components/FloatingBar";
 import Header from "@/components/Header";
+import RegionLinks from "@/components/RegionLinks";
 import SectionLabel from "@/components/SectionLabel";
 import { getShelterImages } from "@/lib/images";
 import type { RegionPageContent } from "@/lib/regions/types";
@@ -329,6 +330,8 @@ export default function LandingPage({ content }: LandingPageProps) {
           </div>
         </section>
       </main>
+
+      <RegionLinks currentSlug={content.slug} />
 
       <footer className="border-t border-charcoal/10 bg-aga-dark py-12 text-cream">
         <div className="mx-auto max-w-6xl px-4 sm:px-8">

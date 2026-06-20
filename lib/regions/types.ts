@@ -69,3 +69,12 @@ export type RegionSeo = {
   organizationDescription: string;
   websiteName: string;
 };
+
+export type SubRegionDefinition = {
+  slug: string;
+  name: string;
+  englishName: string;
+  areaServed: string;
+  nearbyArea: string;
+  variantIndex: number;
+};

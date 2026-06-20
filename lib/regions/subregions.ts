@@ -1,3 +1,6 @@
+import { batch2Definitions } from "./definitions-batch2";
+import type { RegionPageContent, RegionSeo, SubRegionDefinition } from "./types";
+
 export type ContentVariant = {
   heroTitleLines: [string, string];
   heroHighlight: string;
@@ -155,15 +158,6 @@ export const contentVariants: ContentVariant[] = [
     processStep2Title: "맞춤 절차 안내",
   },
 ];
-
-export type SubRegionDefinition = {
-  slug: string;
-  name: string;
-  englishName: string;
-  areaServed: string;
-  nearbyArea: string;
-  variantIndex: number;
-};
 
 export const subRegionDefinitions: SubRegionDefinition[] = [
   {
@@ -326,6 +320,7 @@ export const subRegionDefinitions: SubRegionDefinition[] = [
     nearbyArea: "언양 및 울산·경남 인근",
     variantIndex: 9,
   },
+  ...batch2Definitions,
 ];
 
 function fill(template: string, name: string): string {
@@ -518,8 +513,6 @@ export function createSubRegionSeo(def: SubRegionDefinition) {
     websiteName: `${name}강아지파양·${name}고양이파양 안내`,
   };
 }
-
-import type { RegionPageContent, RegionSeo } from "./types";
 
 export type SubRegion = {
   definition: SubRegionDefinition;
