@@ -2,12 +2,18 @@ import { subRegionDefinitions } from "./subregions";
 
 export type RegionLink = {
   name: string;
+  label: string;
   href: string;
   slug: string;
 };
 
+function toLabel(name: string): string {
+  return `${name}강아지파양`;
+}
+
 export const mainRegionLink: RegionLink = {
   name: "인천",
+  label: toLabel("인천"),
   href: "/",
   slug: "",
 };
@@ -15,7 +21,12 @@ export const mainRegionLink: RegionLink = {
 const slugToLink = new Map(
   subRegionDefinitions.map((def) => [
     def.slug,
-    { name: def.name, href: `/${def.slug}`, slug: def.slug },
+    {
+      name: def.name,
+      label: toLabel(def.name),
+      href: `/${def.slug}`,
+      slug: def.slug,
+    },
   ]),
 );
 
@@ -115,6 +126,7 @@ export const allRegionLinks: RegionLink[] = [
   mainRegionLink,
   ...subRegionDefinitions.map((def) => ({
     name: def.name,
+    label: toLabel(def.name),
     href: `/${def.slug}`,
     slug: def.slug,
   })),
