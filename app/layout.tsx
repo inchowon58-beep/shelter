@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     description: siteDescription,
     images: [
       {
-        url: "/images/shelter-01.png",
+        url: "/images/shelter-01.jpg",
         width: 1200,
         height: 630,
         alt: "인천강아지파양·인천고양이파양·인천유기견·유기묘보호소 전경",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: siteTitle,
     description: siteDescription,
-    images: ["/images/shelter-01.png"],
+    images: ["/images/shelter-01.jpg"],
   },
   alternates: {
     canonical: siteUrl,

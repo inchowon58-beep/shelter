@@ -22,9 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const { seo } = subRegion;
-  const ogImagePath =
-    getFirstShelterImagePath(subRegion.content.imageFolder) ??
-    `/images/${slug}/shelter-01.png`;
+  const ogImagePath = getFirstShelterImagePath(subRegion.content.imageFolder);
 
   return {
     title: seo.siteTitle,
