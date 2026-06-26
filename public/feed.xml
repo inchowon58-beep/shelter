@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>캐터리</title>
+    <link>https://shelter.cattery.co.kr</link>
+    <description>캐터리 최신 페이지</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 26 Jun 2026 13:11:08 GMT</lastBuildDate>
+    <item>
+      <title>캐터리</title>
+      <link>https://shelter.cattery.co.kr</link>
+      <description>캐터리</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr</guid>
+    </item>
+    <item>
+      <title>영종도고양이분양, 건강하고 사랑스러운 아기고양이 캐터리</title>
+      <link>https://shelter.cattery.co.kr/yeongjongdogoyangibunyang</link>
+      <description>영종도고양이분양 전문 캐터리에서 행복을 만나보세요. 철저한 건강 관리와 책임감 있는 분양으로 당신의 가족이 될 특별한 아기고양이를 소개합니다.</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/yeongjongdogoyangibunyang</guid>
+      <enclosure url="https://image.cattery.co.kr/maincoon/23.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/maincoon/23.webp" medium="image" />
+    </item>
+  </channel>
+</rss>
