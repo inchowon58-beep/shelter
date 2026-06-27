@@ -1,26 +1,458 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>캐터리</title>
+    <title>아가펫스토리</title>
     <link>https://shelter.cattery.co.kr</link>
-    <description>캐터리 최신 페이지</description>
+    <description>아가펫스토리 최신 페이지</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:25:18 GMT</lastBuildDate>
     <item>
-      <title>캐터리</title>
+      <title>아가펫스토리</title>
       <link>https://shelter.cattery.co.kr</link>
-      <description>캐터리</description>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <description>아가펫스토리</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://shelter.cattery.co.kr</guid>
     </item>
     <item>
-      <title>영종도고양이분양, 건강하고 사랑스러운 아기고양이 캐터리</title>
-      <link>https://shelter.cattery.co.kr/yeongjongdogoyangibunyang</link>
-      <description>영종도고양이분양 전문 캐터리에서 행복을 만나보세요. 철저한 건강 관리와 책임감 있는 분양으로 당신의 가족이 될 특별한 아기고양이를 소개합니다.</description>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://shelter.cattery.co.kr/yeongjongdogoyangibunyang</guid>
-      <enclosure url="https://image.cattery.co.kr/maincoon/23.webp" length="0" type="image/webp" />
-      <media:content url="https://image.cattery.co.kr/maincoon/23.webp" medium="image" />
+      <title>영양 유기동물보호센터: 따뜻한 보금자리, 새 가족을 찾습니다 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/yeongyang-yugidongmulbohosenteo</link>
+      <description>영양 유기동물보호센터를 찾으시나요? 아가펫스토리는 버려진 동물들에게 사랑과 돌봄을 제공하며, 평생 가족을 찾아주고 있습니다. 입양, 봉사, 후원 문의 환영합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/yeongyang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/05.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/05.webp" medium="image" />
+    </item>
+    <item>
+      <title>영광 유기동물보호센터 아가펫스토리: 새로운 가족을 찾습니다</title>
+      <link>https://shelter.cattery.co.kr/yeonggwang-yugidongmulbohosenteo</link>
+      <description>영광 유기동물보호센터 아가펫스토리에서 버려진 생명들에게 따뜻한 손길을 건네주세요. 입양, 후원, 자원봉사 등 소중한 인연을 맺는 모든 과정을 안내합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/yeonggwang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/18.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/18.webp" medium="image" />
+    </item>
+    <item>
+      <title>영덕 유기동물보호센터: 아가펫스토리와 함께 따뜻한 가족 찾기</title>
+      <link>https://shelter.cattery.co.kr/yeongdeok-yugidongmulbohosenteo</link>
+      <description>영덕 지역 유기동물을 위한 아가펫스토리의 전문적인 보호와 입양 지원 서비스를 만나보세요. 따뜻한 보금자리를 기다리는 동물들에게 희망을 선물합니다. 지금 바로 상담하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/yeongdeok-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/29.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/29.webp" medium="image" />
+    </item>
+    <item>
+      <title>양산 유기동물보호센터: 따뜻한 손길을 기다리는 생명들을 위한 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/yangsan-yugidongmulbohosenteo</link>
+      <description>경남 양산 유기동물보호센터를 찾으신다면, 아가펫스토리에서 버려진 동물들에게 새로운 삶과 희망을 선물하세요. 입양 및 봉사 활동을 안내합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/yangsan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/46.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/46.webp" medium="image" />
+    </item>
+    <item>
+      <title>울산 유기동물보호센터, 새 가족 찾기 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/ulsan-yugidongmulbohosenteo</link>
+      <description>울산 지역 유기동물에게 따뜻한 보금자리를 제공하고 새 가족을 연결합니다. 아가펫스토리에서 소중한 생명을 위한 봉사와 입양 정보를 확인하세요. 사랑 나눔의 시작.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/ulsan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/24.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/24.webp" medium="image" />
+    </item>
+    <item>
+      <title>울진 유기동물보호센터: 소중한 생명의 새 가족 찾기, 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/uljin-yugidongmulbohosenteo</link>
+      <description>울진 유기동물보호센터를 찾으시나요? 아가펫스토리에서 유기동물 입양, 보호 및 봉사 정보를 확인하고 울진 지역 생명들에게 따뜻한 보금자리를 선물하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/uljin-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/37.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/37.webp" medium="image" />
+    </item>
+    <item>
+      <title>의성 유기동물보호센터: 따뜻한 보금자리, 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/uiseong-yugidongmulbohosenteo</link>
+      <description>의성 유기동물보호센터 아가펫스토리는 의성 지역의 유기동물에게 사랑과 희망을 선물합니다. 안전한 보호와 건강한 입양을 위한 모든 과정을 함께합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/uiseong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/20.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/20.webp" medium="image" />
+    </item>
+    <item>
+      <title>수원 유기동물보호센터 아가펫스토리, 따뜻한 입양의 시작</title>
+      <link>https://shelter.cattery.co.kr/suwon-yugidongmulbohosenteo</link>
+      <description>수원 유기동물보호센터를 찾으시나요? 아가펫스토리는 사랑과 돌봄이 필요한 유기동물들에게 따뜻한 보금자리를 제공하고 있습니다. 책임감 있는 입양을 통해 소중한 인연을 맺어주세요. 입양 절차, 봉사 문의 등 자세한 정보를 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/suwon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/30.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/30.webp" medium="image" />
+    </item>
+    <item>
+      <title>순창 유기동물보호센터 | 아가펫스토리에서 새 가족을 찾아요</title>
+      <link>https://shelter.cattery.co.kr/sunchang-yugidongmulbohosenteo</link>
+      <description>버려진 동물들에게 따뜻한 보금자리를 제공하는 순창 유기동물보호센터. 아가펫스토리와 함께 입양, 봉사, 후원으로 소중한 생명을 지켜주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/sunchang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/35.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/35.webp" medium="image" />
+    </item>
+    <item>
+      <title>사천 유기동물보호센터: 아가펫스토리에서 새로운 가족을 만나세요</title>
+      <link>https://shelter.cattery.co.kr/sacheon-yugidongmulbohosenteo</link>
+      <description>경남 사천시 유기동물보호센터 아가펫스토리는 버려진 생명들에게 따뜻한 보금자리를 제공합니다. 입양 절차, 봉사 후원 등 사천 유기동물 보호에 대한 모든 것을 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/sacheon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/16.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/16.webp" medium="image" />
+    </item>
+    <item>
+      <title>나주 유기동물보호센터: 따뜻한 손길로 새 삶을 선물하세요</title>
+      <link>https://shelter.cattery.co.kr/naju-yugidongmulbohosenteo</link>
+      <description>나주 유기동물보호센터에서는 버려진 동물들이 따뜻한 보금자리와 새로운 가족을 기다립니다. 입양, 봉사, 후원을 통해 소중한 생명을 지키는 일에 동참해주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/naju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/01.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/01.webp" medium="image" />
+    </item>
+    <item>
+      <title>무안 유기동물보호센터: 아가펫스토리와 따뜻한 동행</title>
+      <link>https://shelter.cattery.co.kr/muan-yugidongmulbohosenteo</link>
+      <description>무안 유기동물보호센터를 찾으시나요? 아가펫스토리는 무안 지역의 소중한 생명들을 구조하고, 돌보며, 책임감 있는 새 가정을 찾아주는 데 앞장섭니다. 지금 바로 문의하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/muan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/41.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/41.webp" medium="image" />
+    </item>
+    <item>
+      <title>목포 유기동물보호센터 아가펫스토리: 새로운 가족을 찾습니다</title>
+      <link>https://shelter.cattery.co.kr/mokpo-yugidongmulbohosenteo</link>
+      <description>전남 목포 유기동물보호센터를 찾으시나요? 아가펫스토리는 버려진 유기동물들에게 따뜻한 보금자리와 전문적인 돌봄을 제공하며 행복한 입양을 돕습니다. 지금 바로 문의하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/mokpo-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/20.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/20.webp" medium="image" />
+    </item>
+    <item>
+      <title>진주 유기동물보호센터: 아가펫스토리와 함께하는 따뜻한 새 출발</title>
+      <link>https://shelter.cattery.co.kr/jinju-yugidongmulbohosenteo</link>
+      <description>진주 유기동물보호센터를 찾으시나요? 아가펫스토리는 진주 지역의 소중한 생명들을 구조하고 돌보며, 새로운 가족을 만날 수 있도록 돕습니다. 입양, 봉사, 후원 참여 방법을 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/jinju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/37.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/37.webp" medium="image" />
+    </item>
+    <item>
+      <title>전주 유기동물보호센터 아가펫스토리: 새 가족을 찾습니다</title>
+      <link>https://shelter.cattery.co.kr/jeonju-yugidongmulbohosenteo</link>
+      <description>전주시 유기동물보호센터 아가펫스토리는 버려진 생명들에게 따뜻한 보금자리를 제공하고 있습니다. 책임감 있는 입양 문의 및 봉사 활동을 안내합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/jeonju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/15.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/15.webp" medium="image" />
+    </item>
+    <item>
+      <title>장성 유기동물보호센터 | 아가펫스토리: 따뜻한 보금자리 찾아주세요</title>
+      <link>https://shelter.cattery.co.kr/jangseong-yugidongmulbohosenteo</link>
+      <description>장성 지역 유기동물을 위한 안식처, 아가펫스토리입니다. 구조부터 임시보호, 건강 관리, 그리고 평생 가족 찾기까지 장성 유기동물보호센터의 모든 과정을 소개합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/jangseong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/15.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/15.webp" medium="image" />
+    </item>
+    <item>
+      <title>장흥 유기동물보호센터: 아가펫스토리에서 새 가족을 찾아요</title>
+      <link>https://shelter.cattery.co.kr/jangheung-yugidongmulbohosenteo</link>
+      <description>장흥 유기동물보호센터를 찾으시나요? 아가펫스토리는 버려진 생명들에게 따뜻한 보금자리와 사랑을 제공하며, 책임감 있는 입양을 돕습니다. 지금 바로 참여하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/jangheung-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/15.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/15.webp" medium="image" />
+    </item>
+    <item>
+      <title>인천 유기동물보호센터: 생명 보호와 입양, 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/incheon-yugidongmulbohosenteo</link>
+      <description>인천 유기동물보호센터를 찾고 계신가요? 아가펫스토리는 버려진 유기동물들에게 따뜻한 보금자리를 제공하고, 새로운 가족을 만날 수 있도록 돕습니다. 입양 절차, 자원봉사 등 궁금한 모든 정보를 확인하고 생명 존중에 동참하세요. 송도, 부평 등 인천 전역을 아우릅니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/incheon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/03.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/03.webp" medium="image" />
+    </item>
+    <item>
+      <title>익산 유기동물보호센터: 따뜻한 희망을 전하는 보금자리 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/iksan-yugidongmulbohosenteo</link>
+      <description>익산 유기동물보호센터 아가펫스토리가 버려진 동물들에게 사랑과 보살핌을 제공하며 새 삶을 선물합니다. 소중한 생명을 위한 입양, 봉사 활동에 동참해 주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/iksan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/32.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/32.webp" medium="image" />
+    </item>
+    <item>
+      <title>화순 유기동물보호센터: 새 가족을 찾습니다 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/hwasun-yugidongmulbohosenteo</link>
+      <description>화순 유기동물보호센터 아가펫스토리는 버려진 생명들에게 따뜻한 보금자리를 제공하고, 소중한 인연을 찾아줍니다. 입양 절차, 봉사 활동, 찾아오시는 길을 안내합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/hwasun-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/26.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/26.webp" medium="image" />
+    </item>
+    <item>
+      <title>함평 유기동물보호센터 아가펫스토리, 새 삶의 희망을 찾다</title>
+      <link>https://shelter.cattery.co.kr/hampyeong-yugidongmulbohosenteo</link>
+      <description>함평 유기동물보호센터 아가펫스토리는 버려진 생명들에게 따뜻한 보살핌과 안전한 입양 기회를 제공합니다. 건강 관리, 심리 안정, 책임감 있는 입양 과정을 만나보세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/hampyeong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/28.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/28.webp" medium="image" />
+    </item>
+    <item>
+      <title>함안 유기동물보호센터: 아가펫스토리에서 새로운 가족을 찾아요</title>
+      <link>https://shelter.cattery.co.kr/haman-yugidongmulbohosenteo</link>
+      <description>함안 유기동물보호센터를 찾으시나요? 아가펫스토리는 함안 지역 유기동물에게 사랑과 돌봄을 제공하며, 따뜻한 보금자리를 연결합니다. 입양 문의 및 봉사 신청 환영.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/haman-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/05.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/05.webp" medium="image" />
+    </item>
+    <item>
+      <title>해남 유기동물보호센터: 아가펫스토리, 소중한 생명에게 새 희망을</title>
+      <link>https://shelter.cattery.co.kr/haenam-yugidongmulbohosenteo</link>
+      <description>해남 유기동물보호센터를 찾으시나요? 아가펫스토리는 해남 지역의 유기동물들을 안전하게 보호하고 새로운 가족을 찾아주는 데 헌신합니다. 따뜻한 입양과 봉사 활동을 아가펫스토리에서 시작하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/haenam-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/10.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/10.webp" medium="image" />
+    </item>
+    <item>
+      <title>하동 유기동물보호센터: 따뜻한 보금자리, 새 가족을 찾습니다 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/hadong-yugidongmulbohosenteo</link>
+      <description>하동 유기동물보호센터를 찾고 계신가요? 아가펫스토리는 하동 지역 유기동물에게 안전한 보호와 따뜻한 새 가족을 찾아주는 데 앞장섭니다. 입양 절차, 봉사 활동 안내, 위기 동물 신고까지 모든 정보를 한눈에 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/hadong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/14.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/14.webp" medium="image" />
+    </item>
+    <item>
+      <title>경산 유기동물보호센터: 입양 절차, 봉사 및 후원 안내</title>
+      <link>https://shelter.cattery.co.kr/gyeongsan-yugidongmulbohosenteo</link>
+      <description>경산 유기동물보호센터를 찾으시나요? 아가펫스토리에서 유기동물 입양 절차, 자원봉사 참여, 후원 안내 등 경산 지역 유기동물 보호에 대한 모든 정보를 제공합니다. 소중한 생명을 위한 따뜻한 손길을 기다립니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gyeongsan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/25.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/25.webp" medium="image" />
+    </item>
+    <item>
+      <title>경주 유기동물보호센터 아가펫스토리: 새로운 가족을 찾습니다</title>
+      <link>https://shelter.cattery.co.kr/gyeongju-yugidongmulbohosenteo</link>
+      <description>경주 유기동물보호센터 아가펫스토리에서 사랑스러운 반려동물에게 새 삶을 선물하세요. 입양 절차, 봉사 활동, 찾아오시는 길까지 자세히 안내합니다. 경주, 포항 인근 지역 주민 환영!</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gyeongju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/18.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/18.webp" medium="image" />
+    </item>
+    <item>
+      <title>광양 유기동물보호센터: 소중한 가족을 만날 기회</title>
+      <link>https://shelter.cattery.co.kr/gwangyang-yugidongmulbohosenteo</link>
+      <description>광양 유기동물보호센터에서는 새로운 가족을 기다리는 사랑스러운 아이들을 만날 수 있습니다. 입양 절차, 봉사 활동, 후원 방법 등 필요한 정보를 확인하고 따뜻한 손길을 내밀어 주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gwangyang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/23.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/23.webp" medium="image" />
+    </item>
+    <item>
+      <title>광주 유기동물보호센터 아가펫스토리: 새로운 가족을 찾습니다</title>
+      <link>https://shelter.cattery.co.kr/gwangju-yugidongmulbohosenteo</link>
+      <description>사랑이 필요한 광주 유기동물들을 위한 아가펫스토리. 버려진 동물들에게 따뜻한 보금자리와 건강한 삶을 선물하는 광주 유기동물보호센터입니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gwangju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/26.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/26.webp" medium="image" />
+    </item>
+    <item>
+      <title>구례 유기동물보호센터: 따뜻한 손길로 새 가족을 찾아줍니다 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/gurye-yugidongmulbohosenteo</link>
+      <description>구례 유기동물보호센터를 찾으시나요? 아가펫스토리는 구례 및 순천, 광양 인근 지역 유기동물들에게 따뜻한 보금자리와 새로운 가족을 찾아주는 데 앞장섭니다. 입양 절차와 봉사 활동 정보를 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gurye-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/03.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/03.webp" medium="image" />
+    </item>
+    <item>
+      <title>군산 유기동물보호센터 | 새로운 가족을 찾는 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/gunsan-yugidongmulbohosenteo</link>
+      <description>전라북도 군산시 유기동물보호센터 아가펫스토리에서 소중한 생명을 만나보세요. 입양 절차 안내, 봉사 참여, 후원 문의까지.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gunsan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/40.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/40.webp" medium="image" />
+    </item>
+    <item>
+      <title>구미 유기동물보호센터: 따뜻한 보금자리, 새로운 가족을 찾아요</title>
+      <link>https://shelter.cattery.co.kr/gumi-yugidongmulbohosenteo</link>
+      <description>구미 유기동물보호센터 아가펫스토리는 소중한 생명에게 제2의 삶을 선물합니다. 입양 문의, 보호 동물 정보, 봉사 참여 등 모든 궁금증을 해소하고 따뜻한 사랑을 나눠주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gumi-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/24.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/24.webp" medium="image" />
+    </item>
+    <item>
+      <title>고성 유기동물보호센터: 생명을 나누는 따뜻한 이야기 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/goseong-yugidongmulbohosenteo</link>
+      <description>고성 유기동물보호센터를 찾고 계신가요? 아가펫스토리는 고성 지역 유기동물에게 안전한 보금자리와 새로운 가족을 찾아줍니다. 입양, 봉사 문의 환영합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/goseong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/15.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/15.webp" medium="image" />
+    </item>
+    <item>
+      <title>고창 유기동물보호센터 아가펫스토리 | 따뜻한 손길을 기다립니다</title>
+      <link>https://shelter.cattery.co.kr/gochang-yugidongmulbohosenteo</link>
+      <description>고창 유기동물보호센터 아가펫스토리에서 소중한 생명을 만나보세요. 입양 절차, 자원봉사, 후원 안내까지. 고창군 일대 유기동물에게 새 삶을 선물하는 따뜻한 마음을 나눕니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gochang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/02.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/02.webp" medium="image" />
+    </item>
+    <item>
+      <title>김제 유기동물보호센터, 소중한 생명의 보금자리 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/gimje-yugidongmulbohosenteo</link>
+      <description>김제 유기동물보호센터를 찾으시나요? 아가펫스토리는 김제 지역의 유기동물에게 따뜻한 손길과 새 보금자리를 제공합니다. 입양 문의, 봉사 활동 참여, 후원에 대한 모든 정보를 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gimje-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/17.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/17.webp" medium="image" />
+    </item>
+    <item>
+      <title>김해 유기동물보호센터 아가펫스토리 | 새 가족 찾기</title>
+      <link>https://shelter.cattery.co.kr/gimhae-yugidongmulbohosenteo</link>
+      <description>김해 유기동물보호센터를 찾으시나요? 아가펫스토리는 김해 지역 유기동물들에게 따뜻한 보금자리와 새로운 삶의 기회를 제공합니다. 입양, 봉사, 후원 안내까지.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gimhae-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/18.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/18.webp" medium="image" />
+    </item>
+    <item>
+      <title>강진 유기동물보호센터: 아가펫스토리, 새 생명 찾아주는 곳</title>
+      <link>https://shelter.cattery.co.kr/gangjin-yugidongmulbohosenteo</link>
+      <description>강진 유기동물보호센터 아가펫스토리는 지역 유기동물에게 사랑과 안식처를 제공하며, 책임감 있는 새 가족을 찾아주는 데 앞장섭니다. 지금 바로 문의하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/gangjin-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/48.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/48.webp" medium="image" />
+    </item>
+    <item>
+      <title>담양 유기동물보호센터 | 아가펫스토리: 소중한 생명에게 새 가족을</title>
+      <link>https://shelter.cattery.co.kr/damyang-yugidongmulbohosenteo</link>
+      <description>담양 유기동물보호센터 아가펫스토리는 소중한 유기동물들에게 따뜻한 보금자리와 행복한 가족을 찾아줍니다. 입양, 봉사, 후원 문의는 0505-707-0704.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/damyang-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/13.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/13.webp" medium="image" />
+    </item>
+    <item>
+      <title>대전 유기동물보호센터 | 새 가족을 찾는 소중한 생명들 - 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/daejeon-yugidongmulbohosenteo</link>
+      <description>대전 유기동물보호센터를 찾으시나요? 아가펫스토리에서 버려진 아이들에게 따뜻한 새 삶을 선물해주세요. 입양 절차, 봉사 안내 등 모든 정보를 제공합니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/daejeon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/37.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/37.webp" medium="image" />
+    </item>
+    <item>
+      <title>대구 유기동물보호센터 아가펫스토리, 새 가족 찾기</title>
+      <link>https://shelter.cattery.co.kr/daegu-yugidongmulbohosenteo</link>
+      <description>대구 지역 유기동물들의 안전과 행복을 책임지는 아가펫스토리입니다. 따뜻한 보살핌 속에서 건강하게 지내는 아이들을 만나보시고, 소중한 인연을 만들어보세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/daegu-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/05.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/05.webp" medium="image" />
+    </item>
+    <item>
+      <title>춘천 유기동물보호센터, 새로운 가족을 찾습니다 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/chuncheon-yugidongmulbohosenteo</link>
+      <description>춘천 유기동물보호센터를 찾으시나요? 아가펫스토리는 따뜻한 보금자리와 행복한 입양을 연결합니다. 유기동물 구조, 보호, 입양 과정을 투명하게 안내합니다. 0505-707-0704</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/chuncheon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/41.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/41.webp" medium="image" />
+    </item>
+    <item>
+      <title>칠곡 유기동물보호센터: 소중한 생명을 위한 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/chilgok-yugidongmulbohosenteo</link>
+      <description>칠곡 유기동물보호센터 아가펫스토리는 버려진 동물들에게 따뜻한 보금자리를 제공하고 새로운 가족을 찾아줍니다. 입양 상담, 봉사 문의, 후원 안내까지.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/chilgok-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/48.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/48.webp" medium="image" />
+    </item>
+    <item>
+      <title>청송 유기동물보호센터: 새로운 가족을 기다리는 아이들</title>
+      <link>https://shelter.cattery.co.kr/cheongsong-yugidongmulbohosenteo</link>
+      <description>청송 유기동물보호센터는 버려진 동물들에게 따뜻한 보금자리를 제공하고 새로운 가족을 찾아줍니다. 아가펫스토리에서 소중한 생명을 만나보세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/cheongsong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/16.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/16.webp" medium="image" />
+    </item>
+    <item>
+      <title>청주 유기동물보호센터: 아가펫스토리에서 새 가족을 만나요</title>
+      <link>https://shelter.cattery.co.kr/cheongju-yugidongmulbohosenteo</link>
+      <description>청주 유기동물보호센터를 찾으시나요? 아가펫스토리는 버려진 생명에게 따뜻한 보금자리를 제공하고 새로운 가족을 연결합니다. 청주 유기견, 유기묘 입양 상담 및 후원, 봉사 활동에 참여해보세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/cheongju-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/19.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/19.webp" medium="image" />
+    </item>
+    <item>
+      <title>천안 유기동물보호센터 | 아가펫스토리, 새 가족을 기다립니다</title>
+      <link>https://shelter.cattery.co.kr/cheonan-yugidongmulbohosenteo</link>
+      <description>천안 지역 유기동물들에게 사랑과 희망을 전하는 아가펫스토리. 건강한 보호와 체계적인 입양 지원으로 행복한 새 삶을 찾아줍니다.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/cheonan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/01.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/01.webp" medium="image" />
+    </item>
+    <item>
+      <title>창원 유기동물보호센터: 생명에 새 희망을 선물하는 곳 | 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/changwon-yugidongmulbohosenteo</link>
+      <description>창원 유기동물보호센터를 찾으시나요? 아가펫스토리는 창원 지역의 유기동물들에게 따뜻한 보금자리와 새로운 가족을 찾아주는 데 힘쓰고 있습니다. 입양, 봉사, 후원 정보를 지금 바로 확인하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/changwon-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/33.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/33.webp" medium="image" />
+    </item>
+    <item>
+      <title>창녕 유기동물보호센터: 아가펫스토리에서 새 희망을 찾아주세요</title>
+      <link>https://shelter.cattery.co.kr/changnyeong-yugidongmulbohosenteo</link>
+      <description>창녕 유기동물보호센터를 찾으시나요? 아가펫스토리는 버려진 유기동물에게 사랑과 돌봄을 제공하며 새로운 가족을 찾아줍니다. 입양, 봉사, 후원 문의 환영.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/changnyeong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/16.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/16.webp" medium="image" />
+    </item>
+    <item>
+      <title>부산 유기동물보호센터 | 새로운 가족을 기다리는 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/busan-yugidongmulbohosenteo</link>
+      <description>부산 지역 유기동물보호센터를 찾으신다면 아가펫스토리에서 소중한 생명을 만나보세요. 따뜻한 보살핌 속에서 건강하게 지내는 아이들의 입양을 지원합니다. 부산 유기동물 입양의 모든 것.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/busan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/46.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/46.webp" medium="image" />
+    </item>
+    <item>
+      <title>부안 유기동물보호센터: 소중한 생명을 위한 아가펫스토리의 따뜻한 보금자리</title>
+      <link>https://shelter.cattery.co.kr/buan-yugidongmulbohosenteo</link>
+      <description>부안 유기동물보호센터를 찾으시나요? 아가펫스토리는 부안 지역의 유기동물들에게 따뜻한 손길을 내밀고 있습니다. 입양, 봉사, 후원 등 다양한 방법으로 생명 존중에 동참해주세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/buan-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/15.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/15.webp" medium="image" />
+    </item>
+    <item>
+      <title>보성 유기동물보호센터: 소중한 생명의 새 가족 찾기 - 아가펫스토리</title>
+      <link>https://shelter.cattery.co.kr/boseong-yugidongmulbohosenteo</link>
+      <description>보성 유기동물보호센터는 따뜻한 보금자리를 기다리는 유기동물들을 보호합니다. 책임감 있는 입양과 봉사로 소중한 생명에게 사랑을 전하고 싶다면 아가펫스토리와 함께하세요.</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://shelter.cattery.co.kr/boseong-yugidongmulbohosenteo</guid>
+      <enclosure url="https://image.cattery.co.kr/dogboho/14.webp" length="0" type="image/webp" />
+      <media:content url="https://image.cattery.co.kr/dogboho/14.webp" medium="image" />
     </item>
   </channel>
 </rss>
