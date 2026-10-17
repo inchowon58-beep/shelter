@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { landingSitemapUrls } from "@/lib/new-landings/catalog";
 import { siteUrl } from "@/lib/seo";
 import seoManifest from "@/lib/seo-pages.json";
 
@@ -44,6 +45,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     if (!page.url) continue;
     const norm = page.url.replace(/\/$/, "");
     push(page.url, norm === root ? 1 : 0.8, page.images, page.lastmod);
+  }
+  for (const url of landingSitemapUrls()) {
+    push(url, 0.8);
   }
   return entries;
 }
